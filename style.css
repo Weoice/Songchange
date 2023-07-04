@@ -1,0 +1,38 @@
+.header {
+
+
+font-size: 25px;
+box-shadow: 15px 15px 30px blue;
+width: 100%;
+font-family: cursive;
+
+}
+
+.note {
+font-size: 15;
+color: black;
+font-family: 'Gill Sans';
+
+}
+
+canvas {
+
+border: 5px dashed purple;
+border-radius: 20px;
+
+}
+
+body {
+
+    background-size: cover;
+}
+
+
+    
+        .play {
+    
+            width: 130px;
+            font-size: 25px;
+    
+    
+        }
